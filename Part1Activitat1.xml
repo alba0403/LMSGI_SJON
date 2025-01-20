@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga_online>
+    <producte codi="401" categoria="Dolços">
+        <nom>Twix</nom>
+        <preu>1.50€</preu>
+        <descripcio>Barreta Twix amb xocolata blanca i caramel.</descripcio>
+        <imatge>https://m.media-amazon.com/images/I/51efACbMIHL.jpg</imatge>
+        <disponibilitat>En Estoc</disponibilitat>
+    </producte>
+
+    <producte codi="639" categoria="Fruits secs">
+        <nom>Festucs Torrats</nom>
+        <preu>3.99€</preu>
+        <descripcio>Festucs torrats, 0% sal afegida addicional, sense gluten. Font de ferro  </descripcio>
+        <imatge>https://images.openfoodfacts.org/images/products/848/000/034/9484/front_es.45.full.jpg</imatge>
+        <disponibilitat>Esgotat</disponibilitat>
+    </producte>
+
+    <producte codi="284" categoria="Lactis">
+        <nom>Llet sencera</nom>
+        <preu>0.80€</preu>
+        <descripcio>Llet sencera fortificada amb vitamina D.  </descripcio>
+        <imatge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8AqB74za42w4g8F0LrFUITltxIEoVMFcMg&amp;s</imatge>
+        <disponibilitat>En estoc</disponibilitat>
+    </producte>
+
+</botiga_online>

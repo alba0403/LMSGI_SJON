@@ -1,0 +1,98 @@
+{
+   "pokemons" :
+   [
+        {
+            "id": 446,
+            "nom": "Munchlax",
+            "tipus": "normal",
+            "pes": {
+                "unitat": "Kg",
+                "valor": 105
+            },
+
+            "altura": {
+                "unitat": "m",
+                "valor": 0.6
+            },
+
+            "estadistiques" : {
+                "velocitat": 3,
+                "fortalesa": 5,
+                "precisio": 4,
+                "resistencia": 5,
+                "salt": 2
+            },
+
+            "moviments" : [
+                {
+                    "nom": "Placatge",
+                    "descripcio": "Placatge és un moviment de tipus normal introduït a la primera generació.",
+                    "potencia" : 40,
+                    "contacte": true
+                },
+
+                {
+                    "nom": "Metrònom",
+                    "descripcio": "Metrònom és un moviment de tipus normal introduït a la primera generació.",
+                    "potencia" : 0,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/8/8e/latest/20160510005053/Munchlax.png",
+            "evolucions": [
+                {
+                    "id": 143,
+                    "nom": "Snorlax",
+                    "nivell_necessari" : 2
+                }
+            ]
+        },
+
+        {
+            "id": 37,
+            "nom": "Vulpix d'Alola",
+            "tipus": "Gel",
+            "pes": {
+                "unitat": "Kg",
+                "valor": 9.9
+            },
+
+            "altura": {
+                "unitat": "m",
+                "valor": 0.6
+            },
+
+            "estadistiques" : {
+                "velocitat": 5,
+                "fortalesa": 3,
+                "precisio": 4,
+                "resistencia": 3,
+                "salt": 3 
+            },
+            
+            "moviments" : [
+                {
+                    "nom": "Vent gel",
+                    "descripcio": "Vent gel és un moviment de tipus gel introduït a la segona generació.",
+                    "potencia" : 55,
+                    "contacte": false
+                },
+
+                {
+                    "nom": "Neu pols",
+                    "descripcio": "Neu pols és un moviment de tipus gel introduït en la segona generació.",
+                    "potencia" : 40,
+                    "contacte": false
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/8/89/latest/20160801132752/Vulpix_de_Alola.png",
+            "evolucions": [
+                {
+                    "id": 38,
+                    "nom": "Ninetales d'Alola",
+                    "necessari_evolucionar" : "Pedra de gel"
+                }
+            ]
+        }
+   ] 
+}
